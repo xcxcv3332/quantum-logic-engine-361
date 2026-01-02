@@ -1,0 +1,1 @@
+const service_lsrz = <T>(args: T): T => { return args; };
